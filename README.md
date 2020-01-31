@@ -20,7 +20,7 @@ Créer les autres entités du MCD et coder les relations entre chacune d'entre e
 
 Trouver un moyen d'avoir un seul modèle d'entité/_repository_/contrôleur que l'on puisse décliner au lieu de copier/coller le même code en changeant simplement les noms des classes.
 
-# Partie 2: Client
+# Partie 2: Client fini
 
 Créer une nouvelle application React capable d'afficher un produit, de créer un nouveau produit, de mettre à jour un produit existant, et de supprimer un produit.
 
